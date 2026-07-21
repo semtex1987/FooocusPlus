@@ -1,4 +1,6 @@
 # FooocusPlus requirements_versions.txt, applicable to all platforms
+--extra-index-url https://pypi.ngc.nvidia.com
+
 accelerate==0.32.1
 aiohttp==3.12.15
 albumentations==2.0.4
